@@ -47,7 +47,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/IC_Quality_Analyzer.git
+git clone https://github.com/Mattew-Shestakov/IC_Quality_Analyzer.git
 cd IC_Quality_Analyzer
 
 # Установка зависимостей
